@@ -1,5 +1,6 @@
 ### Hi there, I am Rahnuma Sharib👋 
 and I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automation Pipeline) . I love develop 👨‍💻 High quality ✏️ apps for Android platform. I have been doing Android Development for more than four years now as a freelancer and full time developer.
+
 <a href="https://www.linkedin.com/in/rahnumasharib/">
   <img
     alt="Linkedin"
@@ -31,6 +32,7 @@ and I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Au
 
  ------------------
  #### Technologies
+ ![image](https://img.shields.io/badge/Kotlin-FF6C37?style=for-the-badge&logo=Kotlin&logoColor=white)
  ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
  ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
  ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -40,5 +42,7 @@ and I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Au
  ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+ 
+
  
  ---------------------
