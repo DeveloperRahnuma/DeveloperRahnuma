@@ -31,13 +31,19 @@ and I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Au
 ![](https://komarev.com/ghpvc/?username=SachinPremkuma&label=PROFILE+VIEWS&&color=green)
 
  ------------------
- #### Technologies
+ #### Expert In 
  ![image](https://img.shields.io/badge/Kotlin-FF6C37?style=for-the-badge&logo=Kotlin&logoColor=white)
+ ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![image](https://img.shields.io/badge/jetpack compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ ![image](https://img.shields.io/badge/jetpack compose-3DDC84?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+ ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+ ------------------
+ #### Other Technologies
+ 
  ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
  ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
- ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
- ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
- ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
