@@ -1,5 +1,37 @@
-### Hi there, I am Rahnuma Sharib👋 
-and I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automation Pipeline) . I love develop 👨‍💻 High quality ✏️ apps for Android platform. I have been doing Android Development for more than four years now as a freelancer and full time developer.
+#  Hi there! 👋 This is Rahnuma Sharib 👨‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&lines=%E2%9C%93+Android+developer;%E2%9C%93+Coading+Enthusiast;%E2%9C%93+Flutter+Developer;%E2%9C%93+Blogger;%E2%9C%93+YouTuber;%E2%9C%93)](https://git.io/typing-svg)
+
+I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Automation Pipeline) . I love develop 👨‍💻 High quality ✏️ apps for Android platform. I have been doing Android Development for more than four years now as a freelancer and full time developer.
+
+- 🔭 I’m currently working as Freelancer
+- 🌱 I’m currently learning IOS, swift
+- 👯 I’m looking to collaborate on Android, IOS & Flutter
+- 🌱 Learning to develop robust Android Applications
+- 💬 Ask me about Android, Java, Kotlin, Python, Blockchain and Bitcoin Protocol.
+- 🤔 I’m looking for help with IOS
+- 💬 Ask me about Anything 
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: My socials mentioned below 👇
+
+### My Online Presence 👇
+
+<!-- <p>
+
+</p> -->
+  
+ <p align="left">
+<a href="https://www.linkedin.com/in/srivathsan-venkateswaran-503193190" target="_blank">
+  <img align="center" alt="srivathsanvenkateswaran | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/SrivathsanVKV" target="_blank">
+  <img align="center" alt="srivathsanvenkateswaran | Twitter" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:srivathsanvenkateswaran@gmail.com">
+  <img align="center" alt="srivathsanvenkateswaran | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
+
+
 
 <a href="https://www.linkedin.com/in/rahnumasharib/">
   <img
@@ -7,7 +39,7 @@ and I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Au
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="">
+<a href="https://twitter.com/SharibRahnuma">
   <img
     alt="Twitter"
     src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
@@ -20,13 +52,15 @@ and I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Au
   />
 </a>
 
+<a href="mailto:Rahnuma.sharib786@gmail.com">
+  <img
+    alt="Gmail"
+    src="https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
 
-- 🔭 I’m currently working as Freelancer
-- 🌱 I’m currently learning IOS, swift and CI/CD
-- 👯 I’m looking to collaborate on Android, IOS & Flutter
-- 🤔 I’m looking for help with IOS
-- 💬 Ask me about Anything 
-- 😄 Pronouns: He/Him
+
+</p> -->
 
 ![](https://komarev.com/ghpvc/?username=SachinPremkuma&label=PROFILE+VIEWS&&color=green)
 
@@ -49,6 +83,23 @@ and I am a self-taught 📚 Android App Developer ( Kotlin, Jetpack Compose & Au
  ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
  
-
- 
  ---------------------
+ 
+ ### 📈 Github Stats
+<!-- status codes -->
+<p>
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DDeveloperRahnuma">
+</a>
+&nbsp; &nbsp;
+<img src="https://komarev.com/ghpvc/?username=DeveloperRahnuma" alt="DeveloperRahnuma"/>
+</p>
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DeveloperRahnuma&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperRahnuma&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+
+<p align=center>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DeveloperRahnuma&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></img>
+</p>
+
